@@ -1,5 +1,5 @@
 /**
- *   初衷是复制 g3d.js  因为这个库不是umd规范,uni貌似不会追踪到他
+ *   
  * 
 	实现了 uni编译完成后 ,复制某些文件到最终目录中去. 
 	有点类似 ant 或 maven的copy_resource
